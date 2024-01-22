@@ -1,0 +1,20 @@
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\bin\Debug\Hostel Managment System.exe.config
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\bin\Debug\Hostel Managment System.exe
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\bin\Debug\Hostel Managment System.pdb
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel Managment System.csproj.AssemblyReference.cache
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.Properties.Resources.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel Managment System.csproj.GenerateResource.cache
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel Managment System.exe
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel Managment System.pdb
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.dashboardForm.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.roomsForm.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.hostelForm.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.staffForm.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.loginForm.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel Managment System.csproj.CopyComplete
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.mainForm.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.addRoomForm.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.addTenant.resources
+C:\Users\Saifi\source\repos\Hostel Managment System\Hostel Managment System\obj\Debug\Hostel_Managment_System.addStaff.resources
